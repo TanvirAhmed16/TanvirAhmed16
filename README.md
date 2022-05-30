@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanvir Ahmed.
 - 👀 I’m interested in SQA.
 - 🌱 I’m currently learning both manual and automation testing.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 Feel free to knock me at tanvirahmed1627@gmail.com
 
 <!---
